@@ -1,5 +1,6 @@
 *{
     font-family: 'Ubuntu', sans-serif;
+    text-decoration: none;
 }
 img{
     width: 100%;
@@ -152,3 +153,12 @@ body{
     }
   }
   
+
+  /*footer*/
+  .footer h3 a{
+      display: block;
+      margin: 0%;
+      padding: 0%;
+      background-color: yellowgreen;
+      color: white;
+  }
